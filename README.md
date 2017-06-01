@@ -1,6 +1,8 @@
 # Fungustus
 **Help Fungustus rescue his duck friends without being pricked by cacti!**
 
+Play here ---> https://nnur.github.io/Fungustus/
+
 Arrow keys to move
 
 Works best full-screen on chrome with sound
